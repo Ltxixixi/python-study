@@ -182,6 +182,8 @@ else:
             l += 1
 
     print(ans)
+    print(ans)
+
 
 
 
